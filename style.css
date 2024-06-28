@@ -1,0 +1,62 @@
+* {
+  box-sizing: border-box;
+}
+
+.con {
+  display: flex;
+  margin: 0 auto;
+  width: 50%;
+  height: 200px;
+  background-color: yellow;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.color {
+  width: 100px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.color-div {
+  display: flex;
+  margin: 0 auto;
+  width: 50%;
+  min-height: 200px;
+  background-color: yellow;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.red-box {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
+
+.green-box {
+  width: 100px;
+  height: 100px;
+  background-color: green;
+}
+
+.blue-box {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+}
